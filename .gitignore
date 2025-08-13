@@ -22,7 +22,7 @@ Thumbs.db
 *.temp
 
 # Ignore large data/model files if not needed in repo
-*.weights.h5
+# *.weights.h5
 
 # Environment variables and secrets
 .env
